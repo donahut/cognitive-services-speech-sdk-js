@@ -58,7 +58,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-terser": "^1.2.0",
     "gulp-tslint": "^8.1.4",
-    "gulp-typescript": "^5.0.1",
+    "gulp-typescript": "^4.0.1",
     "jest": "^24.9.0",
     "jest-junit": "^10.0.0",
     "request": "^2.88.0",
@@ -93,7 +93,7 @@
     "asn1.js-rfc5280": "^3.0.0",
     "https-proxy-agent": "^3.0.1",
     "simple-lru-cache": "0.0.2",
-    "ws": "^7.2.0"
+    "ws": "^6.0.0"
   },
   "resolutions": {
     "extend": "3.0.2"
