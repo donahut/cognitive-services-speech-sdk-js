@@ -22,10 +22,7 @@
   "bugs": {
     "url": "https://github.com/Microsoft/cognitive-services-speech-sdk-js/issues"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Microsoft/cognitive-services-speech-sdk-js"
-  },
+  "repository": "https://github.com/Microsoft/cognitive-services-speech-sdk-js",
   "browser": {
     "asn1.js-rfc2560": false,
     "asn1.js-rfc5280": false,
